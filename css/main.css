@@ -1,0 +1,142 @@
+.container-fluid { 
+    padding: 0px;
+}
+
+header {
+	//border-bottom:1px solid #e3e3e3;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	display: inline-block;
+}
+
+#nav {
+	top: 0px;
+	background-color: rgba(24, 28, 34, 0.8);
+	position: fixed;
+	width: 100%;
+	z-index: 3;
+}
+
+#content{
+	margin-top: 3%;
+	text-align: center;
+	position: relative;
+	margin-bottom: 120px;
+}
+
+header a{
+	color: white;
+	margin-right: 20px;
+}
+
+a:hover { 
+    color: #4098a4;
+}
+
+body{
+	background-image: url('../img/argyle.png');
+	text-align: center;
+	font-size: 16px;
+	color: white;
+}
+
+p{
+	padding: 5px;
+}
+
+img{
+	width: 400px;
+	height: 350px;
+	border-radius: 25px;
+}
+
+@media screen and (max-width: 1200px) {
+    img{
+		width: 350px;
+		height: 310px;
+		border-radius: 25px;
+	}
+}
+
+@media screen and (max-width: 1100px) {
+    img{
+		width: 300px;
+		height: 260px;
+		border-radius: 25px;
+	}
+}
+
+@media screen and (max-width: 950px) {
+    img{
+		width: 200px;
+		height: 175px;
+		border-radius: 25px;
+	}
+}
+
+@media screen and (max-width: 650px) {
+    img{
+		width: 100px;
+		height: 75px;
+		border-radius: 25px;
+	}
+}
+
+#description{
+	color: white;
+	margin-top: -50px;
+	
+}
+
+#description p{
+	font-size: 20px;
+	text-align: left;
+	text-indent: 3em;
+}
+
+#description-title{
+	text-align: center;
+	font-size: 30px;
+}
+
+#image1{
+	position: absolute;
+	top: 25%;
+	left: 0%;
+}
+
+#image2{
+	position: absolute;
+	top: 12.5%;
+	left: 15%;
+}
+
+#image3{
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#image4{
+	position: absolute;
+	top: 12.5%;
+	right: 15%;
+}
+
+#image5{
+	position: absolute;
+	top: 25%;
+	right: 0%;
+}
+
+.image:hover {
+-webkit-box-shadow: 0px 0px 15px 10px rgba(255, 255, 255, .75);
+box-shadow: 0px 0px 15px 10px rgba(255, 255, 255, .75);
+}
+.image {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+}
+
+

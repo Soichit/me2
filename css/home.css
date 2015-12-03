@@ -1,0 +1,35 @@
+h1{
+	margin-top: 10%;
+	font-size: 100px;
+}
+
+#homeHeader{
+	top: 0px;
+	background-image: url('/img/background.png');
+	width: 100%;
+	min-height: 600px;
+	background-repeat: no-repeat;
+	//color: black;
+}
+
+#content{
+	margin-top: 0;
+}
+
+#homeLinks{
+	margin-bottom: 60px;
+}
+
+#homeLinks a{
+	font-size: 50px;
+	margin: 20px;
+}
+
+#homeHobbies{
+	font-size: 20px;
+	margin: 20px;
+}
+
+#homeHobbies h3{
+	font-size: 50px;
+}

@@ -1,0 +1,57 @@
+[
+{
+	"Title": "My First HTML",
+	"Url": "http://students.washington.edu/soichit/info101/random",
+	"Description": "<p>This was my first project I made using html. Very random site but it was fun to explore the features and possibilities of website making when I first learned it.</p><p>What I learned: HTML and CSS.</p>",
+	"Image": "http://i.imgur.com/Fop6Q5x.jpg"
+},
+
+{
+	"Title":"Spotify Parody",
+	"Url":"http://students.washington.edu/soichit/info343/spotify/",
+	"Description":"<p>For this project, we used the Spotify to make our own Spotify application but adding our own spice into it. I decided to combine the functionality of Twitter and Spotify so users can tweet about their favorite music while listening to it.</p><p>What I learned: Using APIs, AngularJS, and using Firebase to store the data.</p>",
+	"Image":"http://i.imgur.com/jSMwiaI.jpg"
+},
+
+{
+	"Title": "Police Shootings Map",
+	"Url": "http://students.washington.edu/soichit/info343/police-shooting2/",
+	"Description": "<p>This project takes in data for police shootings across the United States and displays it visually across a map. The map comes with filters to sort that data depending on what the user wants to see. I wanted to focus on the user-friendliness and aesthetics for the visual data.</p><p>What I learned: Using Leaflet, JavaScript and jQuery.</p>",
+	"Image": "http://i.imgur.com/tNsxp4O.jpg"
+},
+
+{
+	"Title": "Police Shootings Old Version",
+	"Url": "http://students.washington.edu/soichit/info343/police-shooting",
+	"Description": "<p>This is the first version of my project for the police-shooting. The newer version has a feature to set the background as well as more colors to filter the shootings based on race.</p><p>What I learned: Using Leaflet, JavaScript and jQuery.</p>",
+	"Image": "http://i.imgur.com/WbR2VkJ.jpg"
+},
+
+{
+	"Title": "Dawg Coffee Page",
+	"Url": "http://students.washington.edu/soichit/info343/dawg-coffee",
+	"Description": "<p>This was the first webpage we made in our Informatics 343 client-side web development class. We replicated a sample site for a fictional cafe. The focus was on detail and making the page work for different screen dimensions like for users who view the site on their phone.</p><p>What I learned: Using HTML, CSS, and Bootstrap to organize the layout aesthetically.</p>",
+	"Image": "http://i.imgur.com/DF6hteX.jpg"
+},
+
+{
+	"Title": "Amazon Review Page",
+	"Url": "http://students.washington.edu/soichit/info343/amazon",
+	"Description": "<p>This project replicated a review page for a site like Amazon. We used Parse to store the data of all the reviews, ratings, and comment ratings. We created a like and dislike function for each review. </p><p>What I learned: Using Parse to store data, JavaScript, and Raty for the stars.</p>",
+	"Image": "http://i.imgur.com/sOgpkRc.jpg"
+},
+
+{
+	"Title": "Bakery Page",
+	"Url": "http://students.washington.edu/soichit/info101/bakery/",
+	"Description": "<p>This is a project I did in the introductory Informatics 101 class when I was just getting introduced to HTML and CSS. We used a layout template and then persoalized it with our own content.</p><p>What I learned: HTML, CSS, personalizing a site from a given template</p>",
+	"Image": "http://i.imgur.com/bUD48TM.jpg"
+},
+
+{
+	"Title": "Massage form",
+	"Url": "http://students.washington.edu/soichit/info101/massage-form",
+	"Description": "<p>Another site I made as a beginner, playing around with input fields. This site replicated a job-application fill-in form.</p><p>What I learned: HTML, CSS, input tags.</p>",
+	"Image": "http://i.imgur.com/1Jqgwe6.jpg"
+}
+]
